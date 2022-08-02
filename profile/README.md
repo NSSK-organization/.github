@@ -1,6 +1,8 @@
 # NSSK
 
-Welcome to NSSK! This is Nishant Kompella's organization, filled with little projects he has worked on. I'm not quite sure what NSSK stands for, but...
+Welcome to NSSK! This is Nishant Kompella's organization, filled with little projects he has worked on.
+
+'Nother seriously stupid kompany.
 
 ## Become a contributor
 
